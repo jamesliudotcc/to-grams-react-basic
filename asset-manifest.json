@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/to-grams-react-basic/static/css/main.5f361e03.chunk.css",
+    "main.js": "/to-grams-react-basic/static/js/main.bdb58456.chunk.js",
+    "main.js.map": "/to-grams-react-basic/static/js/main.bdb58456.chunk.js.map",
+    "runtime-main.js": "/to-grams-react-basic/static/js/runtime-main.800bf666.js",
+    "runtime-main.js.map": "/to-grams-react-basic/static/js/runtime-main.800bf666.js.map",
+    "static/js/2.64b6cbfa.chunk.js": "/to-grams-react-basic/static/js/2.64b6cbfa.chunk.js",
+    "static/js/2.64b6cbfa.chunk.js.map": "/to-grams-react-basic/static/js/2.64b6cbfa.chunk.js.map",
+    "index.html": "/to-grams-react-basic/index.html",
+    "precache-manifest.de5a722ea2ac62dd7219fd3ad8a1a66b.js": "/to-grams-react-basic/precache-manifest.de5a722ea2ac62dd7219fd3ad8a1a66b.js",
+    "service-worker.js": "/to-grams-react-basic/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/to-grams-react-basic/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.64b6cbfa.chunk.js.LICENSE.txt": "/to-grams-react-basic/static/js/2.64b6cbfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.800bf666.js",
+    "static/js/2.64b6cbfa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bdb58456.chunk.js"
+  ]
+}
